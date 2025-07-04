@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![WhatsApp Image 2025-07-04 at 09 57 05](https://github.com/user-attachments/assets/13a18650-6f82-4b46-b902-a37523f37b2a)
 
 <!--
 **wprudencio/wprudencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
